@@ -1,0 +1,11 @@
+{
+  "name": "bittrex-bot",
+  "version": "0.0.1",
+  "description": "Bittrex BOT for trading",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Daguerre",
+  "license": "ISC"
+}
