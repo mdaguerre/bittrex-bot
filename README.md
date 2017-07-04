@@ -1,12 +1,12 @@
 # bittrex-bot
 Simple bot to analyse the crypto market in realtime
 
-#Setup
+## Setup
 ```
 npm install
 ```
 
-#Run
+## Run
 ```
 npm start
 ```
